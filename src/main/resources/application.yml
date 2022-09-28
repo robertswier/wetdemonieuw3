@@ -1,0 +1,4 @@
+#logging.level.web=TRACE
+backend:
+  url: http://localhost:18000/backend/customer
+  urlObject: http://localhost:18000/backend/customer/object
